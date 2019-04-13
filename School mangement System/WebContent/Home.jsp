@@ -113,9 +113,9 @@
         <li><a href="#">About Us</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="Loginstudent.jsp"><span class="glyphicon glyphicon-education"></span> Login Student</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-education"></span> Login Student</a></li>
         <li><a href="#"><span class="glyphicon glyphicon-user"></span> Login Lecture</a></li>
-        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Administrator</a></li>
+        <li><a href="Loginadmin.jsp"><span class="glyphicon glyphicon-log-in"></span> Administrator</a></li>
         
       </ul>
     </div>
