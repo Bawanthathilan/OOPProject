@@ -14,12 +14,6 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
   <script src="javaScript\studentlogin.js"></script>
    <style>
-   
-   body {
-  background:url(icons/back.jpg) no-repeat;
-  padding-top:0px;
-  background-size:cover;
-}
     /* Remove the navbar's default margin-bottom and rounded borders */ 
     .navbar {
       margin-bottom: 0;
@@ -50,26 +44,13 @@
 </head>
 <body>
 
-	<%
 	
-		response.setHeader("Cache-Control", "no-cache , no-store ,must-revalidate" );	
-		response.setHeader("Progma", "no-cache");
-		response.setHeader("Expires", "0");
-		
-	
-		if(session.getAttribute("username")==null)
-		{
-		response.sendRedirect("Loginadmin.jsp");
-		
-		}
-	
-	%>
 	
 	
 	
 
 	
-	<nav class="navbar navbar-inverse ">
+	<nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -81,9 +62,11 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li><a href="Home.jsp">| Home | </a></li>
-      
-        <li><a href="view.jsp">| View Student |</a></li>
+        <li><a href="Home.jsp">Home</a></li>
+        <li><a href="addstudent.jsp">add student</a></li>
+        <li><a href="updatestudent.jsp">Update Student</a></li>
+        <li class = "active"><a href="deletestudent.jsp">Delete Student</a></li>
+        <li><a href="view.jsp">View Student</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
       
@@ -96,39 +79,10 @@
     </div>
   </div>
 </nav>
-<br>
-
-<div class="jumbotron jumbotron-fluid">
-  <div class="container">
-    <h1 class="display-4">Welcome Admin Dashbord</h1>
-    <span class="glyphicon glyphicon-user"></span>
-    <p class="lead">User ${username}</p>
-  </div>
-</div>
-<br><br>
-
-<div class="container-fluid" align="center">
-  <a href="user-form.jsp"><button type="button" class="btn btn-secondary btn-lg btn btn-success">CRUD OPERATIONS</button></a>
-
-
-<br>
-
-
-</div>
-
-
-<div class="buttonadd">
-
-</div>
   
 
     <br><br><br>
-    
-    
-    
-   <br><br><br> 
-   <br><br><br> 
-   <br><br><br> 
+    <hr>
     
       
 
