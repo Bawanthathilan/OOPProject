@@ -46,6 +46,10 @@
       }
       .row.content {height:auto;} 
     }
+    
+    body{
+    	background-image: linear-gradient(to top, #f43b47 0%, #453a94 100%);
+    }
   </style>
 </head>
 <body>
@@ -83,7 +87,7 @@
       <ul class="nav navbar-nav">
         <li><a href="Home.jsp">| Home | </a></li>
       
-        <li><a href="view.jsp">| View Student |</a></li>
+        
       </ul>
       <ul class="nav navbar-nav navbar-right">
       
@@ -108,7 +112,9 @@
 <br><br>
 
 <div class="container-fluid" align="center">
-  <a href="user-form.jsp"><button type="button" class="btn btn-secondary btn-lg btn btn-success">CRUD OPERATIONS</button></a>
+  <a href="user-form.jsp"><button type="button" class="btn btn-secondary btn-lg btn btn-success">Add New Student</button></a>
+  <br><br>
+   <a href="list"><button type="button" class="btn btn-secondary btn-lg btn btn-success">View Student Details</button></a>
 
 
 <br>

@@ -25,7 +25,7 @@
     /* Set gray background color and 100% height */
     .sidenav {
       padding-top: 20px;
-      background-color: #f1f1f1;
+      background-color: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);
       height: 100%;
     }
     
@@ -92,6 +92,11 @@
   background: #bb0000;
   color: white;
 }
+
+body{
+
+	background-image: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);
+		}
   </style>
 </head>
 </head>
@@ -186,7 +191,7 @@ My School founded by Col. Henry Steele Olcott a renowned American theosophist al
         <p><h5 align="left"><li>Classical Musical Show</li></h5></p>
         
       </div>
-      <img src="icons\banner1.jpg"height="100%" width="75%">
+      <img src="icons/banner1.jpg"height="100%" width="75%">
      
     </div>
   </div>

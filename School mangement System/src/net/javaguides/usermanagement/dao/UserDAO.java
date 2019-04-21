@@ -139,7 +139,7 @@ public class UserDAO {
 			statement.setString(3, user.getAddress());
 			statement.setString(4, user.getNic());
 			statement.setString(5, user.getMobile());
-			statement.setInt(4, user.getId());
+			statement.setInt(6, user.getId());
 
 			rowUpdated = statement.executeUpdate() > 0;
 		}
