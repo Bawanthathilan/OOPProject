@@ -32,8 +32,8 @@ Dillinger uses a number of open source projects to work properly:
 
 ### Contributing
 
-Bawantha Thilan - Developer - [https://stackoverflow.com/story/bawantha]
-github repo - [https://github.com/bawantharathnayakasliit/OOPProject]
+* Bawantha Thilan - Developer - [https://stackoverflow.com/story/bawantha]
+* github repo - [https://github.com/bawantharathnayakasliit/OOPProject]
 
 ### Authors
 * Bawantha Thilan 
