@@ -1,4 +1,6 @@
 # School Management System
+
+School Management System using JSP Servelet And also used UI and UX concepts
 ![image](https://drive.google.com/uc?export=view&id=1EWOWIJkhX7mCNL3UaylF2yXUcyTmE1zz)
 
 
@@ -6,7 +8,7 @@
 
 [![Build Status](https://img.shields.io/badge/Source%20Editor-Visual%20Code-blue.svg)](https://code.visualstudio.com/)
 
-School Management System using JSP Servelet And also used UI and UX concepts
+
 
   
 
