@@ -40,6 +40,7 @@
       }
       .row.content {height:auto;} 
     }
+    
   </style>
 </head>
 <body>
@@ -73,7 +74,7 @@
  
     <div class="col-sm-8 text-left"> 
         
-      <h1>Welcome !</h1>
+     
       
       <hr>
       <div class="loginform" style="margin-left:50%;">
@@ -81,7 +82,7 @@
       <div class="form-wrap" >
           <div class="tabs">
             
-            <h3 class="login-tab"><a href="#">Login</a></h3>
+            <center><h3 class="login-tab" >Login Administrator</h3></center>
           </div><!--.tabs-->
       
          
@@ -105,9 +106,12 @@
     <hr>
     
       
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <footer class="container-fluid text-center">
-  <p>Developed By #Bawantha #Sithira #Maleesha</p>
+  <p>Developed By #Bawantha #Sithira #Maleesha </p>
+  <center>
+  	<p>bawantha</p>
+  </center>
 </footer>
 </body>
 </html>

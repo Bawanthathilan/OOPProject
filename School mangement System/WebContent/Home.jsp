@@ -13,6 +13,9 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <style>
+  
+  	
+  
     /* Remove the navbar's default margin-bottom and rounded borders */ 
     .navbar {
       margin-bottom: 0;
@@ -47,7 +50,7 @@
     
     .icon-bar {
   position: fixed;
-  top: 75%;
+  top: 65%;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
@@ -87,6 +90,7 @@
   background: #007bb5;
   color: white;
 }
+
 
 .youtube {
   background: #bb0000;
@@ -145,14 +149,14 @@ body{
       <h1>Welcome !</h1>
       
       <hr>
-      <img src="icons\minimalist-blue-mountains-8k-2x-7680x4320.jpg" height="100%" width="100%">
+      <img src="icons\blue.jpg" height="100%" width="100%">
       <br> <br>
       <hr>
       <h2>
-      	Latest News
+      	School News
       </h2>
       <div class="alert alert-success" role="alert">
-  <h4 class="alert-heading">School News!</h4>
+  <h4 class="alert-heading">Sports News!</h4>
   <p> <li> 75th Bradby Shield Rugby encounter to kick off in style.</li></p>
   <hr>
   
@@ -191,7 +195,7 @@ My School founded by Col. Henry Steele Olcott a renowned American theosophist al
         <p><h5 align="left"><li>Classical Musical Show</li></h5></p>
         
       </div>
-      <img src="icons/banner1.jpg"height="100%" width="75%">
+      <img src="icons\banner1.jpg"height="100%" width="75%">
      
     </div>
   </div>
