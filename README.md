@@ -1,12 +1,14 @@
 # School Management System
 
+School Management System using JSP Servelet And also used UI and UX concepts
+![image](https://drive.google.com/uc?export=view&id=1EWOWIJkhX7mCNL3UaylF2yXUcyTmE1zz)
 
 
 [![Build Status](https://img.shields.io/badge/Powerd%20By-Eclipse%20Oxygen-green.svg)](https://www.eclipse.org/downloads/packages/release/oxygen)
 
 [![Build Status](https://img.shields.io/badge/Source%20Editor-Visual%20Code-blue.svg)](https://code.visualstudio.com/)
 
-School Management System using JSP Servelet And also used UI and UX concepts
+
 
   
 
@@ -30,11 +32,12 @@ Dillinger uses a number of open source projects to work properly:
 
 ### Contributing
 
-Bawantha Thilan - Developer - [https://stackoverflow.com/story/bawantha]
-github repo - [https://github.com/bawantharathnayakasliit/OOPProject]
+* Bawantha Thilan - Developer - [https://stackoverflow.com/story/bawantha]
+* github repo - [https://github.com/bawantharathnayakasliit/OOPProject]
 
 ### Authors
 * Bawantha Thilan 
+* Sithira
     
 
 
