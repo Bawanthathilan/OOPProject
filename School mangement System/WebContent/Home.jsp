@@ -122,7 +122,7 @@ body{
         <li><a href="#">About Us</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#"><span class="glyphicon glyphicon-education"></span> Login Student</a></li>
+        <li><a href="loginStudent.jsp"><span class="glyphicon glyphicon-education"></span> Login Student</a></li>
         <li><a href="#"><span class="glyphicon glyphicon-user"></span> Login Lecture</a></li>
         <li><a href="Loginadmin.jsp"><span class="glyphicon glyphicon-log-in"></span> Administrator</a></li>
         
@@ -148,8 +148,9 @@ body{
         
       <h1>Welcome !</h1>
       
+      
       <hr>
-      <img src="icons\blue.jpg" height="100%" width="100%">
+      <img src="pic\2.jpg" height="100%" width="100%">
       <br> <br>
       <hr>
       <h2>
