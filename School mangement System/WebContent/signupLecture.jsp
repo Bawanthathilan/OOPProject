@@ -164,7 +164,7 @@ background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
+        <li class="active"><a href="Home.jsp">Home</a></li>
         <li><a href="#">About</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
@@ -182,7 +182,7 @@ background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
               
  
     
-        <form method="post" action="registration.jsp" >
+        <form method="post" action="registrationLec.jsp" >
             <center>
             <table  border="2" width="50%" cellpadding="5">
                 <thead>
@@ -216,7 +216,7 @@ background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
                         <td><input type="reset" value="Reset" /></td>
                     </tr>
                     <tr>
-                        <td colspan="2">Already registered!! <a href="loginStudent.jsp">Login Here</a></td>
+                        <td colspan="2">Already registered!! <a href="loginLecture.jsp">Login Here</a></td>
                     </tr>
                 </tbody>
             </table>

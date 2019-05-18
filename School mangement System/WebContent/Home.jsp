@@ -123,7 +123,7 @@ body{
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="loginStudent.jsp"><span class="glyphicon glyphicon-education"></span> Login Student</a></li>
-        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Login Lecture</a></li>
+        <li><a href="loginLecture.jsp"><span class="glyphicon glyphicon-user"></span> Login Lecture</a></li>
         <li><a href="Loginadmin.jsp"><span class="glyphicon glyphicon-log-in"></span> Administrator</a></li>
         
       </ul>
@@ -150,7 +150,7 @@ body{
       
       
       <hr>
-      <img src="pic\2.jpg" height="100%" width="100%">
+      <img src="/pic/2.jpg" height="100%" width="100%">
       <br> <br>
       <hr>
       <h2>
@@ -197,7 +197,7 @@ My School founded by Col. Henry Steele Olcott a renowned American theosophist al
         <p><h5 align="left"><li>Classical Musical Show</li></h5></p>
         
       </div>
-      <img src="icons\banner1.jpg"height="100%" width="75%">
+      <img src="${pageContext.request.contextPath}/icons/banner1.jpg" height="100%" width="75%">
      
     </div>
   </div>

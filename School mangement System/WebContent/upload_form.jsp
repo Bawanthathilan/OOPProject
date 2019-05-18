@@ -85,7 +85,7 @@ table  th {
         <li><a href="#">About Us</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <button type="submit" class="btn btn-link navbar-btn navbar-link">Log out Your Account</button>
+        <a href="loginLecture.jsp"><button type="submit" class="btn btn-link navbar-btn navbar-link">Log out Your Account</button></a>
         
       </ul>
     </div>
@@ -184,7 +184,11 @@ table  th {
             <div style="position: fixed ; bottom: 0 ; width:100% ; text-align:center ">
                 
             </div>
-        </div> <br> <br> 
+        </div> <br> <br>
+        
+        <form>
+        	
+        </form> 
         <br> <br> <br> <br> <br> <br> 
         
         <footer class="container-fluid text-center">

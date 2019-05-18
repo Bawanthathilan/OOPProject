@@ -171,17 +171,19 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="Home.jsp">My School</a>
+      <a class="navbar-brand" href="Home.jsp">Logo</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="Home.jsp">Home</a></li>
+        <li class="active"><a href="#">Home</a></li>
         <li><a href="#">About</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="Loginstudent.jsp"><span class="glyphicon glyphicon-education"></span> Login Student</a></li>
-       
+        
+        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Login Lecture</a></li>
+        
+        
       </ul>
     </div>
   </div>
@@ -194,7 +196,7 @@
                 <label style="color: #2439AD" id="signInfont"> <b> Sign In <br> </b></label>
                 <label style="color: #14A57C"><b><br> </b></label>
                 <br><br>
-                    <form method="post" action="login.jsp">   <!-- -------------------------- login form begin -->        
+                    <form method="post" action="loginLec.jsp">   <!-- -------------------------- login form begin -->        
                     <table width="100%">
                        
                        <tr>
@@ -209,7 +211,7 @@
                         <tr>
                         
                         	<td><input type="submit" value="Login" /></td> 
-                            <td><p>Not registered</p><a href="signupStudent.jsp" style = "text-decoration : none;  margin-top : 2px ; color : gray ; font-size : 15px;"><br>Create and Account</a>              
+                            <td><p>Not registered</p><a href="signupLecture.jsp" style = "text-decoration : none;  margin-top : 2px ; color : gray ; font-size : 15px;"><br>Create and Account</a>              
                         
                             
                         </tr>    
